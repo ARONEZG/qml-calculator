@@ -1,0 +1,3 @@
+[submodule "core_calculator"]
+	path = core_calculator
+	url = ./core_calculator
